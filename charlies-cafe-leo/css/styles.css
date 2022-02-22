@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Work+Sans:wght@300;400;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Work+Sans:wght@300;400;700&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #6E2604
+}
+
+li, a {
+    font-family: "Work Sans", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+h1 {
+    font-family: "Lobster", sans-serif;
+    font-size: 67px;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-end;
+    padding: 30px 10%;
+    transition: all 0.3s ease 0s;
+}
+
+.nav-links {
+    list-style: none;
+}
+
+.nav-links li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.nav-links li a {
+    transition: all 0.3s ease 0s;
+}
+
+.nav-links li a: hover {
+    color: #F6DBA7
+}
+
