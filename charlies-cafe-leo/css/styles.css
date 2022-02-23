@@ -6,7 +6,6 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-color: #6E2604
 }
 
 li, a {
@@ -17,11 +16,29 @@ li, a {
     text-decoration: none;
 }
 
+li2 {
+    font-family: "Work Sans", sans serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #6E2604;
+    text-align: center;
+    padding: 10rem,
+}
+
 h1 {
     font-family: "Lobster", sans-serif;
     font-size: 67px;
     color: #ffffff;
     cursor: pointer;
+}
+
+h2 {
+    font-family: "Work Sans", sans-serif;
+    font-weight: 700;
+    font-size: 45px;
+    color: #6E2604;
+    text-align: center;
+    padding: 3rem;
 }
 
 header {
@@ -30,6 +47,12 @@ header {
     align-items:flex-end;
     padding: 30px 10%;
     transition: all 0.3s ease 0s;
+    background-color: #6E2604
+}
+
+.espresso-drinks {
+    justify-content: space-between;
+	flex-wrap: wrap;
 }
 
 .nav-links {
