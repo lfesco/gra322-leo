@@ -50,10 +50,6 @@ header {
     background-color: #6E2604
 }
 
-.espresso-drinks {
-    justify-content: space-between;
-	flex-wrap: wrap;
-}
 
 .nav-links {
     list-style: none;
