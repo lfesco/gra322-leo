@@ -68,3 +68,28 @@ header {
     color: #F6DBA7
 }
 
+td,
+th {
+    padding: 20px;
+}
+
+td {
+    text-align: center;
+}
+
+caption {
+    padding: 10px;
+    caption-side: top;
+    font-family: "Work Sans", sans serif;
+    font-weight: 700;
+    font-size: 48px;
+}
+
+table {
+    border-collapse: collapse;
+    letter-spacing: 1px;
+    font-family: "Work Sans", sans serif;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center
+}
