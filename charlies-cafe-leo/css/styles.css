@@ -50,6 +50,9 @@ header {
     background-color: #6E2604
 }
 
+body{
+    background-color: #F6DBA7;
+}
 
 .nav-links {
     list-style: none;
@@ -71,10 +74,12 @@ header {
 td,
 th {
     padding: 20px;
+
 }
 
 td {
     text-align: center;
+    color: #6E2604;
 }
 
 caption {
@@ -83,6 +88,8 @@ caption {
     font-family: "Work Sans", sans serif;
     font-weight: 700;
     font-size: 48px;
+    padding-top: 5rem;
+    padding-bottom: .25rem;
 }
 
 table {
@@ -91,5 +98,9 @@ table {
     font-family: "Work Sans", sans serif;
     font-weight: 400;
     font-size: 18px;
-    text-align: center
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    color: #6E2604;
 }
