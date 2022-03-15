@@ -16,14 +16,6 @@ li, a {
     text-decoration: none;
 }
 
-li2 {
-    font-family: "Work Sans", sans serif;
-    font-weight: 400;
-    font-size: 18px;
-    color: #6E2604;
-    text-align: center;
-    padding: 10rem,
-}
 
 h1 {
     font-family: "Lobster", sans-serif;
@@ -40,6 +32,16 @@ h2 {
     text-align: center;
     padding: 3rem;
 }
+
+h3 {
+    font-family: "Work Sans", sans serif;
+    font-weight: 700;
+    font-size: 48px;
+    color: #6E2604;
+    text-align: center;
+    padding: 3rem;
+}
+
 
 header {
     display: flex;
@@ -69,6 +71,22 @@ body{
 
 .nav-links li a:hover {
     color: #F6DBA7
+}
+
+.latte {
+    padding: 2rem;
+    width: 37%;
+    margin-left: 11rem;
+}
+
+.about {
+    font-family: "Work Sans", sans serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #6E2604;
+    margin-left: 11rem;
+    margin-right: 11rem;
+    margin-top: 9.5rem;
 }
 
 td,
@@ -104,3 +122,55 @@ table {
     width: 40%;
     color: #6E2604;
 }
+
+.map {
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.location {
+    font-family: "Work Sans", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    color: #6E2604;
+}
+
+.hours {
+    font-family: "Work Sans", sans serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #6E2604;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-end;
+    padding: 30px 10%;
+    transition: all 0.3s ease 0s;
+    background-color: #6E2604;
+    padding-top: 5rem;
+    padding-bottom: 7rem;
+}
+
+.footer-item {
+    font-family: "Work Sans", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    color: #ffffff;
+
+}
+
+i {
+    font-size: 20px;
+}
+
