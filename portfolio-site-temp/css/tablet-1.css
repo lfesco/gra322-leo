@@ -1,0 +1,191 @@
+/* screen - tablet-1 */
+
+.tablet-1 {
+  background-color: var(--white);
+  height: 890px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 768px;
+}
+
+.tablet-1 .rectangle-7-5AiBTW {
+  background-color: var(--white);
+  height: 797px;
+  left: 0px;
+  position: absolute;
+  top: 98px;
+  width: 768px;
+}
+
+.tablet-1 .rectangle-8-5AiBTW {
+  background-color: var(--white);
+  height: 98px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 768px;
+}
+
+.tablet-1 .leoescobar-5AiBTW {
+  background-color: transparent;
+  height: 48px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 100px;
+}
+
+.tablet-1 .home-5AiBTW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 653px;
+  object-fit: cover;
+  position: absolute;
+  top: 49px;
+  width: 66px;
+}
+
+.tablet-1 .letter-number-5AiBTW {
+  background-color: transparent;
+  height: 44px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 166px;
+  width: 158px;
+}
+
+.tablet-1 .short-video-animated-5AiBTW {
+  background-color: transparent;
+  height: 45px;
+  left: 379px;
+  object-fit: cover;
+  position: absolute;
+  top: 655px;
+  width: 264px;
+}
+
+.tablet-1 .gra-321-5AiBTW {
+  background-color: transparent;
+  height: 15px;
+  left: 672px;
+  object-fit: cover;
+  position: absolute;
+  top: 798px;
+  width: 48px;
+}
+
+.tablet-1 .scroll-group-1-5AiBTW::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.tablet-1 .scroll-group-1-5AiBTW {
+  background-color: transparent;
+  height: 459px;
+  left: 379px;
+  mix-blend-mode: normal;
+  overflow-x: scroll;
+  position: absolute;
+  top: 166px;
+  width: 340px;
+}
+
+.tablet-1 .rectangle-19-CP4dM3 {
+  background-color: var(--white);
+  height: 459px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tablet-1 .ideation1-CP4dM3 {
+  background-color: transparent;
+  height: 323px;
+  left: 44px;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 250px;
+}
+
+.tablet-1 .rectangle-21-CP4dM3 {
+  background-color: var(--white);
+  height: 459px;
+  left: 340px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tablet-1 .rectangle-23-CP4dM3 {
+  background-color: var(--white);
+  height: 459px;
+  left: 680px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tablet-1 .rectangle-24-CP4dM3 {
+  background-color: var(--white);
+  height: 459px;
+  left: 1020px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tablet-1 .ideation2-CP4dM3 {
+  background-color: transparent;
+  height: 323px;
+  left: 386px;
+  object-fit: cover;
+  position: absolute;
+  top: 58px;
+  width: 249px;
+}
+
+.tablet-1 .ideation3-CP4dM3 {
+  background-color: transparent;
+  height: 367px;
+  left: 708px;
+  object-fit: cover;
+  position: absolute;
+  top: 69px;
+  width: 284px;
+}
+
+.tablet-1 .animation1-CP4dM3 {
+  background-color: transparent;
+  height: 94px;
+  left: 1114px;
+  object-fit: cover;
+  position: absolute;
+  top: 89px;
+  width: 151px;
+}
+
+.tablet-1 .animation2-CP4dM3 {
+  background-color: transparent;
+  height: 94px;
+  left: 1114px;
+  object-fit: cover;
+  position: absolute;
+  top: 188px;
+  width: 151px;
+}
+
+.tablet-1 .animation3-CP4dM3 {
+  background-color: transparent;
+  height: 95px;
+  left: 1114px;
+  object-fit: cover;
+  position: absolute;
+  top: 286px;
+  width: 152px;
+}

@@ -1,0 +1,191 @@
+/* screen - mobile-2 */
+
+.mobile-2 {
+  background-color: var(--white);
+  height: 892px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 414px;
+}
+
+.mobile-2 .rectangle-1-CxdxBh {
+  background-color: var(--white);
+  height: 797px;
+  left: 0px;
+  position: absolute;
+  top: 98px;
+  width: 414px;
+}
+
+.mobile-2 .rectangle-5-CxdxBh {
+  background-color: var(--white);
+  height: 98px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+
+.mobile-2 .leoescobar-CxdxBh {
+  background-color: transparent;
+  height: 48px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 100px;
+}
+
+.mobile-2 .home-CxdxBh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 314px;
+  object-fit: cover;
+  position: absolute;
+  top: 49px;
+  width: 66px;
+}
+
+.mobile-2 .letter-number-CxdxBh {
+  background-color: transparent;
+  height: 44px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 166px;
+  width: 158px;
+}
+
+.mobile-2 .short-video-animated-CxdxBh {
+  background-color: transparent;
+  height: 45px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 690px;
+  width: 264px;
+}
+
+.mobile-2 .gra-321-CxdxBh {
+  background-color: transparent;
+  height: 15px;
+  left: 331px;
+  object-fit: cover;
+  position: absolute;
+  top: 833px;
+  width: 48px;
+}
+
+.mobile-2 .scroll-group-1-CxdxBh::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.mobile-2 .scroll-group-1-CxdxBh {
+  background-color: transparent;
+  height: 459px;
+  left: 38px;
+  mix-blend-mode: normal;
+  overflow-x: scroll;
+  position: absolute;
+  top: 201px;
+  width: 340px;
+}
+
+.mobile-2 .rectangle-19-Zx7208 {
+  background-color: var(--white);
+  height: 459px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.mobile-2 .ideation1-Zx7208 {
+  background-color: transparent;
+  height: 323px;
+  left: 44px;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 250px;
+}
+
+.mobile-2 .rectangle-21-Zx7208 {
+  background-color: var(--white);
+  height: 459px;
+  left: 340px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.mobile-2 .rectangle-23-Zx7208 {
+  background-color: var(--white);
+  height: 459px;
+  left: 680px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.mobile-2 .rectangle-24-Zx7208 {
+  background-color: var(--white);
+  height: 459px;
+  left: 1020px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.mobile-2 .ideation2-Zx7208 {
+  background-color: transparent;
+  height: 323px;
+  left: 386px;
+  object-fit: cover;
+  position: absolute;
+  top: 58px;
+  width: 249px;
+}
+
+.mobile-2 .ideation3-Zx7208 {
+  background-color: transparent;
+  height: 367px;
+  left: 708px;
+  object-fit: cover;
+  position: absolute;
+  top: 69px;
+  width: 284px;
+}
+
+.mobile-2 .animation1-Zx7208 {
+  background-color: transparent;
+  height: 94px;
+  left: 1114px;
+  object-fit: cover;
+  position: absolute;
+  top: 89px;
+  width: 151px;
+}
+
+.mobile-2 .animation2-Zx7208 {
+  background-color: transparent;
+  height: 94px;
+  left: 1114px;
+  object-fit: cover;
+  position: absolute;
+  top: 188px;
+  width: 151px;
+}
+
+.mobile-2 .animation3-Zx7208 {
+  background-color: transparent;
+  height: 95px;
+  left: 1114px;
+  object-fit: cover;
+  position: absolute;
+  top: 286px;
+  width: 152px;
+}

@@ -1,0 +1,152 @@
+/* screen - desktop-3 */
+
+.desktop-3 {
+  background-color: var(--white);
+  height: 892px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1280px;
+}
+
+.desktop-3 .rectangle-17-cusbr8 {
+  background-color: var(--white);
+  height: 797px;
+  left: 0px;
+  position: absolute;
+  top: 98px;
+  width: 1280px;
+}
+
+.desktop-3 .rectangle-18-cusbr8 {
+  background-color: var(--white);
+  height: 98px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1280px;
+}
+
+.desktop-3 .leoescobar-cusbr8 {
+  background-color: transparent;
+  height: 48px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 100px;
+}
+
+.desktop-3 .home-cusbr8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 1169px;
+  object-fit: cover;
+  position: absolute;
+  top: 49px;
+  width: 66px;
+}
+
+.desktop-3 .charlies-cafe-cusbr8 {
+  background-color: transparent;
+  height: 22px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 166px;
+  width: 150px;
+}
+
+.desktop-3 .responsive-mobile-an-cusbr8 {
+  background-color: transparent;
+  height: 30px;
+  left: 555px;
+  object-fit: cover;
+  position: absolute;
+  top: 655px;
+  width: 265px;
+}
+
+.desktop-3 .gra-322-cusbr8 {
+  background-color: transparent;
+  height: 15px;
+  left: 1185px;
+  object-fit: cover;
+  position: absolute;
+  top: 798px;
+  width: 50px;
+}
+
+.desktop-3 .scroll-group-12-cusbr8::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.desktop-3 .scroll-group-12-cusbr8 {
+  background-color: transparent;
+  height: 459px;
+  left: 555px;
+  mix-blend-mode: normal;
+  overflow-x: scroll;
+  position: absolute;
+  top: 166px;
+  width: 680px;
+}
+
+.desktop-3 .rectangle-19-Bjt3WM {
+  background-color: var(--white);
+  height: 459px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.desktop-3 .screen-shot-2022-04-25-at-112940-pm-Bjt3WM {
+  background-color: transparent;
+  height: 174px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 86px;
+  width: 252px;
+}
+
+.desktop-3 .rectangle-30-Bjt3WM {
+  background-color: var(--white);
+  height: 459px;
+  left: 340px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.desktop-3 .rectangle-31-Bjt3WM {
+  background-color: var(--white);
+  height: 459px;
+  left: 680px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.desktop-3 .screen-shot-2022-04-25-at-112959-pm-Bjt3WM {
+  background-color: transparent;
+  height: 195px;
+  left: 726px;
+  object-fit: cover;
+  position: absolute;
+  top: 86px;
+  width: 248px;
+}
+
+.desktop-3 .screen-shot-2022-04-25-at-113021-pm-Bjt3WM {
+  background-color: transparent;
+  height: 117px;
+  left: 384px;
+  object-fit: cover;
+  position: absolute;
+  top: 86px;
+  width: 252px;
+}

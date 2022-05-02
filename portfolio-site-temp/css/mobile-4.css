@@ -1,0 +1,195 @@
+/* screen - mobile-4 */
+
+.mobile-4 {
+  background-color: var(--white);
+  height: 892px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 414px;
+}
+
+.mobile-4 .rectangle-1-ZxxsxS {
+  background-color: var(--white);
+  height: 797px;
+  left: 0px;
+  position: absolute;
+  top: 98px;
+  width: 414px;
+}
+
+.mobile-4 .rectangle-5-ZxxsxS {
+  background-color: var(--white);
+  height: 98px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+
+.mobile-4 .leoescobar-ZxxsxS {
+  background-color: transparent;
+  height: 48px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 100px;
+}
+
+.mobile-4 .leoescobar-tVJxIe {
+  background-color: transparent;
+  height: auto;
+  left: 364px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 102px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mobile-4 .path-1-ZxxsxS {
+  background-color: transparent;
+  height: 1px;
+  left: 284px;
+  object-fit: cover;
+  position: absolute;
+  top: 102px;
+  width: 45px;
+}
+
+.mobile-4 .path-2-ZxxsxS {
+  background-color: transparent;
+  height: 1px;
+  left: 284px;
+  object-fit: cover;
+  position: absolute;
+  top: 140px;
+  width: 45px;
+}
+
+.mobile-4 .path-3-ZxxsxS {
+  background-color: transparent;
+  height: 1px;
+  left: 284px;
+  object-fit: cover;
+  position: absolute;
+  top: 122px;
+  width: 45px;
+}
+
+.mobile-4 .charlies-cafe-ZxxsxS {
+  background-color: transparent;
+  height: 22px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 166px;
+  width: 150px;
+}
+
+.mobile-4 .responsive-mobile-an-ZxxsxS {
+  background-color: transparent;
+  height: 30px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 690px;
+  width: 265px;
+}
+
+.mobile-4 .gra-322-ZxxsxS {
+  background-color: transparent;
+  height: 15px;
+  left: 331px;
+  object-fit: cover;
+  position: absolute;
+  top: 833px;
+  width: 50px;
+}
+
+.mobile-4 .scroll-group-5-ZxxsxS::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.mobile-4 .scroll-group-5-ZxxsxS {
+  background-color: transparent;
+  height: 459px;
+  left: 38px;
+  mix-blend-mode: normal;
+  overflow-x: scroll;
+  position: absolute;
+  top: 201px;
+  width: 343px;
+}
+
+.mobile-4 .rectangle-19-xx3Ylq {
+  background-color: var(--white);
+  height: 459px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.mobile-4 .screen-shot-2022-04-25-at-112940-pm-xx3Ylq {
+  background-color: transparent;
+  height: 174px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 86px;
+  width: 252px;
+}
+
+.mobile-4 .rectangle-30-xx3Ylq {
+  background-color: var(--white);
+  height: 459px;
+  left: 340px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.mobile-4 .rectangle-31-xx3Ylq {
+  background-color: var(--white);
+  height: 459px;
+  left: 680px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.mobile-4 .screen-shot-2022-04-25-at-112959-pm-xx3Ylq {
+  background-color: transparent;
+  height: 195px;
+  left: 726px;
+  object-fit: cover;
+  position: absolute;
+  top: 86px;
+  width: 248px;
+}
+
+.mobile-4 .screen-shot-2022-04-25-at-113021-pm-xx3Ylq {
+  background-color: transparent;
+  height: 117px;
+  left: 384px;
+  object-fit: cover;
+  position: absolute;
+  top: 86px;
+  width: 252px;
+}
+
+.mobile-4 .home-ZxxsxS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 314px;
+  object-fit: cover;
+  position: absolute;
+  top: 49px;
+  width: 66px;
+}

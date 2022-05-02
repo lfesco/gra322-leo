@@ -1,0 +1,289 @@
+/* screen - mobile-6 */
+
+.mobile-6 {
+  background-color: var(--white);
+  height: 892px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 414px;
+}
+
+.mobile-6 .rectangle-1-NOdPAr {
+  background-color: var(--white);
+  height: 797px;
+  left: 0px;
+  position: absolute;
+  top: 98px;
+  width: 414px;
+}
+
+.mobile-6 .rectangle-5-NOdPAr {
+  background-color: var(--white);
+  height: 98px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+
+.mobile-6 .leoescobar-NOdPAr {
+  background-color: transparent;
+  height: 48px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 100px;
+}
+
+.mobile-6 .leoescobar-5CXxuk {
+  background-color: transparent;
+  height: auto;
+  left: 364px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 102px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mobile-6 .path-1-NOdPAr {
+  background-color: transparent;
+  height: 1px;
+  left: 284px;
+  object-fit: cover;
+  position: absolute;
+  top: 102px;
+  width: 45px;
+}
+
+.mobile-6 .path-2-NOdPAr {
+  background-color: transparent;
+  height: 1px;
+  left: 284px;
+  object-fit: cover;
+  position: absolute;
+  top: 140px;
+  width: 45px;
+}
+
+.mobile-6 .path-3-NOdPAr {
+  background-color: transparent;
+  height: 1px;
+  left: 284px;
+  object-fit: cover;
+  position: absolute;
+  top: 122px;
+  width: 45px;
+}
+
+.mobile-6 .pizza-braid-NOdPAr {
+  background-color: transparent;
+  height: 22px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 166px;
+  width: 118px;
+}
+
+.mobile-6 .mobile-application-d-NOdPAr {
+  background-color: transparent;
+  height: 30px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 690px;
+  width: 259px;
+}
+
+.mobile-6 .gra-361-NOdPAr {
+  background-color: transparent;
+  height: 15px;
+  left: 331px;
+  object-fit: cover;
+  position: absolute;
+  top: 833px;
+  width: 48px;
+}
+
+.mobile-6 .scroll-group-7-NOdPAr::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.mobile-6 .scroll-group-7-NOdPAr {
+  background-color: transparent;
+  height: 459px;
+  left: 38px;
+  mix-blend-mode: normal;
+  overflow-x: scroll;
+  position: absolute;
+  top: 201px;
+  width: 340px;
+}
+
+.mobile-6 .rectangle-19-X930hJ {
+  background-color: var(--white);
+  height: 459px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.mobile-6 .x20-X930hJ {
+  background-color: transparent;
+  height: 288px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: 86px;
+  width: 222px;
+}
+
+.mobile-6 .rectangle-40-X930hJ {
+  background-color: var(--white);
+  height: 459px;
+  left: 340px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.mobile-6 .path-13-X930hJ {
+  background-color: transparent;
+  height: 1px;
+  left: 680px;
+  object-fit: cover;
+  position: absolute;
+  top: 459px;
+  width: 340px;
+}
+
+.mobile-6 .rectangle-41-X930hJ {
+  background-color: var(--white);
+  height: 459px;
+  left: 680px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.mobile-6 .rectangle-43-X930hJ {
+  background-color: var(--white);
+  height: 459px;
+  left: 1020px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.mobile-6 .rectangle-44-X930hJ {
+  background-color: var(--white);
+  height: 459px;
+  left: 1360px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.mobile-6 .rectangle-45-X930hJ {
+  background-color: var(--white);
+  height: 459px;
+  left: 1700px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.mobile-6 .rectangle-46-X930hJ {
+  background-color: var(--white);
+  height: 459px;
+  left: 2040px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.mobile-6 .rectangle-47-X930hJ {
+  background-color: var(--white);
+  height: 459px;
+  left: 2380px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.mobile-6 .rectangle-48-X930hJ {
+  background-color: var(--white);
+  height: 459px;
+  left: 2720px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.mobile-6 .x21-X930hJ {
+  background-color: transparent;
+  height: 288px;
+  left: 399px;
+  object-fit: cover;
+  position: absolute;
+  top: 86px;
+  width: 222px;
+}
+
+.mobile-6 .x33-X930hJ {
+  background-color: transparent;
+  height: 288px;
+  left: 739px;
+  object-fit: cover;
+  position: absolute;
+  top: 101px;
+  width: 222px;
+}
+
+.mobile-6 .phone-mockup-1-X930hJ {
+  background-color: transparent;
+  height: 326px;
+  left: 1061px;
+  object-fit: cover;
+  position: absolute;
+  top: 82px;
+  width: 736px;
+}
+
+.mobile-6 .phone-mockup-2-X930hJ {
+  background-color: transparent;
+  height: 326px;
+  left: 1683px;
+  object-fit: cover;
+  position: absolute;
+  top: 82px;
+  width: 736px;
+}
+
+.mobile-6 .phone-mockup-2-copy-X930hJ {
+  background-color: transparent;
+  height: 326px;
+  left: 2306px;
+  object-fit: cover;
+  position: absolute;
+  top: 82px;
+  width: 736px;
+}
+
+.mobile-6 .home-NOdPAr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 314px;
+  object-fit: cover;
+  position: absolute;
+  top: 49px;
+  width: 66px;
+}

@@ -1,0 +1,346 @@
+/* screen - desktop */
+
+.desktop {
+  background-color: var(--white);
+  height: 892px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1280px;
+}
+
+.desktop .rectangle-17-dg6U5x {
+  background-color: var(--white);
+  height: 797px;
+  left: 0px;
+  position: absolute;
+  top: 98px;
+  width: 1280px;
+}
+
+.desktop .rectangle-18-dg6U5x {
+  background-color: var(--white);
+  height: 98px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1280px;
+}
+
+.desktop .leoescobar-dg6U5x {
+  background-color: transparent;
+  height: 48px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 100px;
+}
+
+.desktop .letter-number-dg6U5x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 38px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 642px;
+  transition: all 0.2s ease;
+  width: 158px;
+}
+
+.desktop .letter-number-dg6U5x:hover {
+  background-color: #E2E2E2
+}
+
+.desktop .happy-handpokers-dg6U5x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 38px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 686px;
+  transition: all 0.2s ease;
+  width: 203px;
+}
+
+.desktop .happy-handpokers-dg6U5x:hover {
+  background-color: #E2E2E2
+}
+
+.desktop .charlies-cafe-dg6U5x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 38px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 730px;
+  transition: all 0.2s ease;
+  width: 150px;
+}
+
+.desktop .charlies-cafe-dg6U5x:hover {
+  background-color: #E2E2E2
+}
+
+.desktop .pizza-braid-dg6U5x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 38px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 774px;
+  transition: all 0.2s ease;
+  width: 118px;
+}
+
+.desktop .pizza-braid-dg6U5x:hover {
+  background-color: #E2E2E2
+}
+
+.desktop .hunter-dg6U5x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 38px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 818px;
+  transition: all 0.2s ease;
+  width: 79px;
+}
+
+.desktop .hunter-dg6U5x:hover {
+  background-color: #E2E2E2
+}
+/* screen - mobile-1 */
+
+.mobile-1 {
+  background-color: var(--white);
+  height: 892px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 414px;
+}
+
+.mobile-1 .rectangle-1-KafZqy {
+  background-color: var(--white);
+  height: 797px;
+  left: 0px;
+  position: absolute;
+  top: 98px;
+  width: 414px;
+}
+
+.mobile-1 .rectangle-5-KafZqy {
+  background-color: var(--white);
+  height: 98px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+
+.mobile-1 .leoescobar-KafZqy {
+  background-color: transparent;
+  height: 48px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 100px;
+}
+
+.mobile-1 .leoescobar-tTEed0 {
+  background-color: transparent;
+  height: auto;
+  left: 364px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 102px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mobile-1 .letter-number-KafZqy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 642px;
+  width: 158px;
+}
+
+.mobile-1 .happy-handpokers-KafZqy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 686px;
+  width: 203px;
+}
+
+.mobile-1 .charlies-cafe-KafZqy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 730px;
+  width: 150px;
+}
+
+.mobile-1 .pizza-braid-KafZqy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 774px;
+  width: 118px;
+}
+
+.mobile-1 .hunter-KafZqy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 818px;
+  width: 79px;
+}
+/* screen - tablet */
+
+.tablet {
+  background-color: var(--white);
+  height: 890px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 768px;
+}
+
+.tablet .rectangle-7-I45tVA {
+  background-color: var(--white);
+  height: 797px;
+  left: 0px;
+  position: absolute;
+  top: 98px;
+  width: 768px;
+}
+
+.tablet .rectangle-8-I45tVA {
+  background-color: var(--white);
+  height: 98px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 768px;
+}
+
+.tablet .leoescobar-I45tVA {
+  background-color: transparent;
+  height: 48px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 100px;
+}
+
+.tablet .letter-number-I45tVA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 642px;
+  width: 158px;
+}
+
+.tablet .happy-handpokers-I45tVA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 686px;
+  width: 203px;
+}
+
+.tablet .charlies-cafe-I45tVA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 730px;
+  width: 150px;
+}
+
+.tablet .pizza-braid-I45tVA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 774px;
+  width: 118px;
+}
+
+.tablet .hunter-I45tVA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 818px;
+  width: 79px;
+}
+@media screen and (max-width: 767px) {
+  .screen.desktop { 
+    display: none;
+   }
+  .screen.tablet { 
+    display: none;
+   }
+}
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .screen.desktop { 
+    display: none;
+   }
+  .screen.mobile-1 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1280px) {
+  .screen.tablet { 
+    display: none;
+   }
+  .screen.mobile-1 { 
+    display: none;
+   }
+}

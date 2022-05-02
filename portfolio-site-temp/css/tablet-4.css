@@ -1,0 +1,246 @@
+/* screen - tablet-4 */
+
+.tablet-4 {
+  background-color: var(--white);
+  height: 890px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 768px;
+}
+
+.tablet-4 .rectangle-7-qNguaU {
+  background-color: var(--white);
+  height: 797px;
+  left: 0px;
+  position: absolute;
+  top: 98px;
+  width: 768px;
+}
+
+.tablet-4 .rectangle-8-qNguaU {
+  background-color: var(--white);
+  height: 98px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 768px;
+}
+
+.tablet-4 .leoescobar-qNguaU {
+  background-color: transparent;
+  height: 48px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 100px;
+}
+
+.tablet-4 .home-qNguaU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 653px;
+  object-fit: cover;
+  position: absolute;
+  top: 49px;
+  width: 66px;
+}
+
+.tablet-4 .pizza-braid-qNguaU {
+  background-color: transparent;
+  height: 22px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 166px;
+  width: 118px;
+}
+
+.tablet-4 .mobile-application-d-qNguaU {
+  background-color: transparent;
+  height: 30px;
+  left: 378px;
+  object-fit: cover;
+  position: absolute;
+  top: 655px;
+  width: 259px;
+}
+
+.tablet-4 .gra-361-qNguaU {
+  background-color: transparent;
+  height: 15px;
+  left: 671px;
+  object-fit: cover;
+  position: absolute;
+  top: 798px;
+  width: 48px;
+}
+
+.tablet-4 .scroll-group-9-qNguaU::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.tablet-4 .scroll-group-9-qNguaU {
+  background-color: transparent;
+  height: 459px;
+  left: 378px;
+  mix-blend-mode: normal;
+  overflow-x: scroll;
+  position: absolute;
+  top: 166px;
+  width: 341px;
+}
+
+.tablet-4 .rectangle-19-6DlRge {
+  background-color: var(--white);
+  height: 459px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tablet-4 .x20-6DlRge {
+  background-color: transparent;
+  height: 288px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: 86px;
+  width: 222px;
+}
+
+.tablet-4 .rectangle-40-6DlRge {
+  background-color: var(--white);
+  height: 459px;
+  left: 340px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tablet-4 .path-13-6DlRge {
+  background-color: transparent;
+  height: 1px;
+  left: 680px;
+  object-fit: cover;
+  position: absolute;
+  top: 459px;
+  width: 340px;
+}
+
+.tablet-4 .rectangle-41-6DlRge {
+  background-color: var(--white);
+  height: 459px;
+  left: 680px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tablet-4 .rectangle-43-6DlRge {
+  background-color: var(--white);
+  height: 459px;
+  left: 1020px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tablet-4 .rectangle-44-6DlRge {
+  background-color: var(--white);
+  height: 459px;
+  left: 1360px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tablet-4 .rectangle-45-6DlRge {
+  background-color: var(--white);
+  height: 459px;
+  left: 1700px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tablet-4 .rectangle-46-6DlRge {
+  background-color: var(--white);
+  height: 459px;
+  left: 2040px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tablet-4 .rectangle-47-6DlRge {
+  background-color: var(--white);
+  height: 459px;
+  left: 2380px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tablet-4 .rectangle-48-6DlRge {
+  background-color: var(--white);
+  height: 459px;
+  left: 2720px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tablet-4 .x21-6DlRge {
+  background-color: transparent;
+  height: 288px;
+  left: 399px;
+  object-fit: cover;
+  position: absolute;
+  top: 86px;
+  width: 222px;
+}
+
+.tablet-4 .x33-6DlRge {
+  background-color: transparent;
+  height: 288px;
+  left: 739px;
+  object-fit: cover;
+  position: absolute;
+  top: 101px;
+  width: 222px;
+}
+
+.tablet-4 .phone-mockup-1-6DlRge {
+  background-color: transparent;
+  height: 326px;
+  left: 1061px;
+  object-fit: cover;
+  position: absolute;
+  top: 82px;
+  width: 736px;
+}
+
+.tablet-4 .phone-mockup-2-6DlRge {
+  background-color: transparent;
+  height: 326px;
+  left: 1683px;
+  object-fit: cover;
+  position: absolute;
+  top: 82px;
+  width: 736px;
+}
+
+.tablet-4 .phone-mockup-2-copy-6DlRge {
+  background-color: transparent;
+  height: 326px;
+  left: 2306px;
+  object-fit: cover;
+  position: absolute;
+  top: 82px;
+  width: 736px;
+}

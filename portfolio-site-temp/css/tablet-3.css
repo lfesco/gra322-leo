@@ -1,0 +1,152 @@
+/* screen - tablet-3 */
+
+.tablet-3 {
+  background-color: var(--white);
+  height: 890px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 768px;
+}
+
+.tablet-3 .rectangle-7-FOxrex {
+  background-color: var(--white);
+  height: 797px;
+  left: 0px;
+  position: absolute;
+  top: 98px;
+  width: 768px;
+}
+
+.tablet-3 .rectangle-8-FOxrex {
+  background-color: var(--white);
+  height: 98px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 768px;
+}
+
+.tablet-3 .leoescobar-FOxrex {
+  background-color: transparent;
+  height: 48px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 100px;
+}
+
+.tablet-3 .home-FOxrex {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 653px;
+  object-fit: cover;
+  position: absolute;
+  top: 49px;
+  width: 66px;
+}
+
+.tablet-3 .charlies-cafe-FOxrex {
+  background-color: transparent;
+  height: 22px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 166px;
+  width: 150px;
+}
+
+.tablet-3 .responsive-mobile-an-FOxrex {
+  background-color: transparent;
+  height: 30px;
+  left: 376px;
+  object-fit: cover;
+  position: absolute;
+  top: 655px;
+  width: 265px;
+}
+
+.tablet-3 .gra-322-FOxrex {
+  background-color: transparent;
+  height: 15px;
+  left: 669px;
+  object-fit: cover;
+  position: absolute;
+  top: 798px;
+  width: 50px;
+}
+
+.tablet-3 .scroll-group-5-FOxrex::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.tablet-3 .scroll-group-5-FOxrex {
+  background-color: transparent;
+  height: 459px;
+  left: 376px;
+  mix-blend-mode: normal;
+  overflow-x: scroll;
+  position: absolute;
+  top: 166px;
+  width: 343px;
+}
+
+.tablet-3 .rectangle-19-VUA6O6 {
+  background-color: var(--white);
+  height: 459px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tablet-3 .screen-shot-2022-04-25-at-112940-pm-VUA6O6 {
+  background-color: transparent;
+  height: 174px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 86px;
+  width: 252px;
+}
+
+.tablet-3 .rectangle-30-VUA6O6 {
+  background-color: var(--white);
+  height: 459px;
+  left: 340px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tablet-3 .rectangle-31-VUA6O6 {
+  background-color: var(--white);
+  height: 459px;
+  left: 680px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tablet-3 .screen-shot-2022-04-25-at-112959-pm-VUA6O6 {
+  background-color: transparent;
+  height: 195px;
+  left: 726px;
+  object-fit: cover;
+  position: absolute;
+  top: 86px;
+  width: 248px;
+}
+
+.tablet-3 .screen-shot-2022-04-25-at-113021-pm-VUA6O6 {
+  background-color: transparent;
+  height: 117px;
+  left: 384px;
+  object-fit: cover;
+  position: absolute;
+  top: 86px;
+  width: 252px;
+}

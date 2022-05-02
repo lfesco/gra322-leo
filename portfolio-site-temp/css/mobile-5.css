@@ -1,0 +1,238 @@
+/* screen - mobile-5 */
+
+.mobile-5 {
+  background-color: var(--white);
+  height: 892px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 414px;
+}
+
+.mobile-5 .rectangle-1-bJwv44 {
+  background-color: var(--white);
+  height: 797px;
+  left: 0px;
+  position: absolute;
+  top: 98px;
+  width: 414px;
+}
+
+.mobile-5 .rectangle-5-bJwv44 {
+  background-color: var(--white);
+  height: 98px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+
+.mobile-5 .leoescobar-bJwv44 {
+  background-color: transparent;
+  height: 48px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 100px;
+}
+
+.mobile-5 .path-1-bJwv44 {
+  background-color: transparent;
+  height: 1px;
+  left: 284px;
+  object-fit: cover;
+  position: absolute;
+  top: 102px;
+  width: 45px;
+}
+
+.mobile-5 .path-2-bJwv44 {
+  background-color: transparent;
+  height: 1px;
+  left: 284px;
+  object-fit: cover;
+  position: absolute;
+  top: 140px;
+  width: 45px;
+}
+
+.mobile-5 .path-3-bJwv44 {
+  background-color: transparent;
+  height: 1px;
+  left: 284px;
+  object-fit: cover;
+  position: absolute;
+  top: 122px;
+  width: 45px;
+}
+
+.mobile-5 .hunter-bJwv44 {
+  background-color: transparent;
+  height: 22px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 166px;
+  width: 79px;
+}
+
+.mobile-5 .application-design-f-bJwv44 {
+  background-color: transparent;
+  height: 30px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 690px;
+  width: 265px;
+}
+
+.mobile-5 .gra-322-bJwv44 {
+  background-color: transparent;
+  height: 15px;
+  left: 331px;
+  object-fit: cover;
+  position: absolute;
+  top: 833px;
+  width: 50px;
+}
+
+.mobile-5 .rectangle-19-bJwv44 {
+  background-color: var(--white);
+  height: 459px;
+  left: 38px;
+  position: absolute;
+  top: 201px;
+  width: 340px;
+}
+
+.mobile-5 .scroll-group-4-bJwv44::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.mobile-5 .scroll-group-4-bJwv44 {
+  background-color: transparent;
+  height: 459px;
+  left: 38px;
+  mix-blend-mode: normal;
+  overflow-x: scroll;
+  position: absolute;
+  top: 201px;
+  width: 340px;
+}
+
+.mobile-5 .rectangle-33-PCXpoR {
+  background-color: var(--white);
+  height: 459px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.mobile-5 .screen-shot-2022-05-01-at-113756-pm-PCXpoR {
+  background-color: transparent;
+  height: 249px;
+  left: 21px;
+  object-fit: cover;
+  position: absolute;
+  top: 84px;
+  width: 293px;
+}
+
+.mobile-5 .rectangle-34-PCXpoR {
+  background-color: var(--white);
+  height: 459px;
+  left: 340px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.mobile-5 .screen-shot-2022-05-01-at-113641-pm-PCXpoR {
+  background-color: transparent;
+  height: 135px;
+  left: 364px;
+  object-fit: cover;
+  position: absolute;
+  top: 84px;
+  width: 270px;
+}
+
+.mobile-5 .screen-shot-2022-05-01-at-113655-pm-PCXpoR {
+  background-color: transparent;
+  height: 135px;
+  left: 364px;
+  object-fit: cover;
+  position: absolute;
+  top: 225px;
+  width: 270px;
+}
+
+.mobile-5 .rectangle-35-PCXpoR {
+  background-color: var(--white);
+  height: 459px;
+  left: 680px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.mobile-5 .rectangle-36-PCXpoR {
+  background-color: var(--white);
+  height: 459px;
+  left: 1020px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.mobile-5 .rectangle-37-PCXpoR {
+  background-color: var(--white);
+  height: 459px;
+  left: 1360px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.mobile-5 .rectangle-38-PCXpoR {
+  background-color: var(--white);
+  height: 459px;
+  left: 1700px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.mobile-5 .phone-mockup-hunter-1-PCXpoR {
+  background-color: transparent;
+  height: 343px;
+  left: 657px;
+  object-fit: cover;
+  position: absolute;
+  top: 61px;
+  width: 775px;
+}
+
+.mobile-5 .phone-mockup-hunter-2-PCXpoR {
+  background-color: transparent;
+  height: 343px;
+  left: 1274px;
+  object-fit: cover;
+  position: absolute;
+  top: 61px;
+  width: 775px;
+}
+
+.mobile-5 .home-bJwv44 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 314px;
+  object-fit: cover;
+  position: absolute;
+  top: 49px;
+  width: 66px;
+}

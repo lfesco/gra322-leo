@@ -1,0 +1,191 @@
+/* screen - desktop-1 */
+
+.desktop-1 {
+  background-color: var(--white);
+  height: 892px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1280px;
+}
+
+.desktop-1 .rectangle-17-Ys8k0x {
+  background-color: var(--white);
+  height: 797px;
+  left: 0px;
+  position: absolute;
+  top: 98px;
+  width: 1280px;
+}
+
+.desktop-1 .rectangle-18-Ys8k0x {
+  background-color: var(--white);
+  height: 98px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1280px;
+}
+
+.desktop-1 .leoescobar-Ys8k0x {
+  background-color: transparent;
+  height: 48px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 100px;
+}
+
+.desktop-1 .home-Ys8k0x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 1169px;
+  object-fit: cover;
+  position: absolute;
+  top: 49px;
+  width: 66px;
+}
+
+.desktop-1 .letter-number-Ys8k0x {
+  background-color: transparent;
+  height: 44px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 166px;
+  width: 158px;
+}
+
+.desktop-1 .short-video-animated-Ys8k0x {
+  background-color: transparent;
+  height: 45px;
+  left: 555px;
+  object-fit: cover;
+  position: absolute;
+  top: 655px;
+  width: 264px;
+}
+
+.desktop-1 .gra-321-Ys8k0x {
+  background-color: transparent;
+  height: 15px;
+  left: 1188px;
+  object-fit: cover;
+  position: absolute;
+  top: 798px;
+  width: 48px;
+}
+
+.desktop-1 .scroll-group-10-Ys8k0x::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.desktop-1 .scroll-group-10-Ys8k0x {
+  background-color: transparent;
+  height: 459px;
+  left: 555px;
+  mix-blend-mode: normal;
+  overflow-x: scroll;
+  position: absolute;
+  top: 166px;
+  width: 680px;
+}
+
+.desktop-1 .rectangle-49-GzKHAk {
+  background-color: var(--white);
+  height: 459px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.desktop-1 .ideation1-GzKHAk {
+  background-color: transparent;
+  height: 323px;
+  left: 44px;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 250px;
+}
+
+.desktop-1 .rectangle-50-GzKHAk {
+  background-color: var(--white);
+  height: 459px;
+  left: 340px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.desktop-1 .rectangle-51-GzKHAk {
+  background-color: var(--white);
+  height: 459px;
+  left: 680px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.desktop-1 .rectangle-52-GzKHAk {
+  background-color: var(--white);
+  height: 459px;
+  left: 1020px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.desktop-1 .ideation2-GzKHAk {
+  background-color: transparent;
+  height: 323px;
+  left: 386px;
+  object-fit: cover;
+  position: absolute;
+  top: 58px;
+  width: 249px;
+}
+
+.desktop-1 .ideation3-GzKHAk {
+  background-color: transparent;
+  height: 367px;
+  left: 708px;
+  object-fit: cover;
+  position: absolute;
+  top: 69px;
+  width: 284px;
+}
+
+.desktop-1 .animation1-GzKHAk {
+  background-color: transparent;
+  height: 94px;
+  left: 1114px;
+  object-fit: cover;
+  position: absolute;
+  top: 89px;
+  width: 151px;
+}
+
+.desktop-1 .animation2-GzKHAk {
+  background-color: transparent;
+  height: 94px;
+  left: 1114px;
+  object-fit: cover;
+  position: absolute;
+  top: 188px;
+  width: 151px;
+}
+
+.desktop-1 .animation3-GzKHAk {
+  background-color: transparent;
+  height: 95px;
+  left: 1114px;
+  object-fit: cover;
+  position: absolute;
+  top: 286px;
+  width: 152px;
+}

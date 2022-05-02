@@ -1,0 +1,199 @@
+/* screen - tablet-5 */
+
+.tablet-5 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 890px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 768px;
+}
+
+.tablet-5 .rectangle-7-8vspJu {
+  background-color: var(--white);
+  height: 797px;
+  left: 0px;
+  position: absolute;
+  top: 98px;
+  width: 768px;
+}
+
+.tablet-5 .rectangle-8-8vspJu {
+  background-color: var(--white);
+  height: 98px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 768px;
+}
+
+.tablet-5 .leoescobar-8vspJu {
+  background-color: transparent;
+  height: 48px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 100px;
+}
+
+.tablet-5 .home-8vspJu {
+  background-color: transparent;
+  height: 24px;
+  left: 653px;
+  object-fit: cover;
+  position: absolute;
+  top: 49px;
+  width: 66px;
+}
+
+.tablet-5 .hunter-8vspJu {
+  background-color: transparent;
+  height: 22px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 166px;
+  width: 79px;
+}
+
+.tablet-5 .application-design-f-8vspJu {
+  background-color: transparent;
+  height: 30px;
+  left: 376px;
+  object-fit: cover;
+  position: absolute;
+  top: 655px;
+  width: 265px;
+}
+
+.tablet-5 .gra-322-8vspJu {
+  background-color: transparent;
+  height: 15px;
+  left: 669px;
+  object-fit: cover;
+  position: absolute;
+  top: 798px;
+  width: 50px;
+}
+
+.tablet-5 .scroll-group-4-8vspJu::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.tablet-5 .scroll-group-4-8vspJu {
+  background-color: transparent;
+  height: 459px;
+  left: 376px;
+  mix-blend-mode: normal;
+  overflow-x: scroll;
+  position: absolute;
+  top: 166px;
+  width: 340px;
+}
+
+.tablet-5 .rectangle-33-IGJIm1 {
+  background-color: var(--white);
+  height: 459px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tablet-5 .screen-shot-2022-05-01-at-113756-pm-IGJIm1 {
+  background-color: transparent;
+  height: 249px;
+  left: 21px;
+  object-fit: cover;
+  position: absolute;
+  top: 84px;
+  width: 293px;
+}
+
+.tablet-5 .rectangle-34-IGJIm1 {
+  background-color: var(--white);
+  height: 459px;
+  left: 340px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tablet-5 .screen-shot-2022-05-01-at-113641-pm-IGJIm1 {
+  background-color: transparent;
+  height: 135px;
+  left: 364px;
+  object-fit: cover;
+  position: absolute;
+  top: 84px;
+  width: 270px;
+}
+
+.tablet-5 .screen-shot-2022-05-01-at-113655-pm-IGJIm1 {
+  background-color: transparent;
+  height: 135px;
+  left: 364px;
+  object-fit: cover;
+  position: absolute;
+  top: 225px;
+  width: 270px;
+}
+
+.tablet-5 .rectangle-35-IGJIm1 {
+  background-color: var(--white);
+  height: 459px;
+  left: 680px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tablet-5 .rectangle-36-IGJIm1 {
+  background-color: var(--white);
+  height: 459px;
+  left: 1020px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tablet-5 .rectangle-37-IGJIm1 {
+  background-color: var(--white);
+  height: 459px;
+  left: 1360px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tablet-5 .rectangle-38-IGJIm1 {
+  background-color: var(--white);
+  height: 459px;
+  left: 1700px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tablet-5 .phone-mockup-hunter-1-IGJIm1 {
+  background-color: transparent;
+  height: 343px;
+  left: 657px;
+  object-fit: cover;
+  position: absolute;
+  top: 61px;
+  width: 775px;
+}
+
+.tablet-5 .phone-mockup-hunter-2-IGJIm1 {
+  background-color: transparent;
+  height: 343px;
+  left: 1274px;
+  object-fit: cover;
+  position: absolute;
+  top: 61px;
+  width: 775px;
+}
